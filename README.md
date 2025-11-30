@@ -18,49 +18,22 @@ I am inclined towards adapting myself quickly with various tools, technologies a
   <!-- Column 1 -->
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/f2970565-2ec7-43de-b71f-83a6a2057ca0" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/f2970565-2ec7-43de-b71f-83a6a2057ca0" width="120"> &nbsp; &nbsp; <img src="https://github.com/user-attachments/assets/286ca59a-f8dc-4bc0-8ea5-be1ccf29d15b" width="120"> </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/6b586975-9aee-42b9-a7fc-fce1075c43f0" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/6b586975-9aee-42b9-a7fc-fce1075c43f0" width="120"> &nbsp; &nbsp; <img src = "https://github.com/user-attachments/assets/3c3b3b72-dfed-458c-95aa-3dfd5a7277f2" width="120"> </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/a957751d-1ec9-499b-af1c-cb944028a0fb" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/a957751d-1ec9-499b-af1c-cb944028a0fb" width="120"> &nbsp; &nbsp; <img src = "https://github.com/user-attachments/assets/450793a8-4c89-4569-a242-0be9a9c774be" width ="120"> </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/2c1ccbaa-bcd1-48a3-9b14-e1cf39b24ea4" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/2c1ccbaa-bcd1-48a3-9b14-e1cf39b24ea4" width="120"> &nbsp; &nbsp; <img src = "https://github.com/user-attachments/assets/7467a874-e284-421e-bdb1-01502d0a0aa4" width = "120">
+</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/f120d9ca-2f91-4766-9218-5d9592301c41" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/f120d9ca-2f91-4766-9218-5d9592301c41" width="120"> &nbsp; &nbsp; </td>
     </tr>
   </table>
-
-  <!-- Column 2 -->
-  <table>
-    <tr>
-      <td><img src="images/img4.jpg" width="120"></td>
-    </tr>
-    <tr>
-      <td><img src="images/img5.jpg" width="120"></td>
-    </tr>
-    <tr>
-      <td><img src="images/img6.jpg" width="120"></td>
-    </tr>
-  </table>
-
-  <!-- Column 3 -->
-  <table>
-    <tr>
-      <td><img src="images/img7.jpg" width="120"></td>
-    </tr>
-    <tr>
-      <td><img src="images/img8.jpg" width="120"></td>
-    </tr>
-    <tr>
-      <td><img src="images/img9.jpg" width="120"></td>
-    </tr>
-  </table>
-
-  <!-- Repeat more <table> blocks for additional columns -->
 
 </p>
 
