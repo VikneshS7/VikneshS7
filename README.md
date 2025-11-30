@@ -18,16 +18,20 @@ I am inclined towards adapting myself quickly with various tools, technologies a
   <!-- Column 1 -->
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/f2970565-2ec7-43de-b71f-83a6a2057ca0" width="120"></td>!
-
+      <td><img src="https://github.com/user-attachments/assets/f2970565-2ec7-43de-b71f-83a6a2057ca0" width="120"></td>
     </tr>
     <tr>
-      <td><img src="images/img2.jpg" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/6b586975-9aee-42b9-a7fc-fce1075c43f0" width="120"></td>
     </tr>
     <tr>
-      <td><img src="images/img3.jpg" width="120"></td>
+      <td><img src="https://github.com/user-attachments/assets/a957751d-1ec9-499b-af1c-cb944028a0fb" width="120"></td>
     </tr>
-    <!-- add more rows for this column -->
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/2c1ccbaa-bcd1-48a3-9b14-e1cf39b24ea4" width="120"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f120d9ca-2f91-4766-9218-5d9592301c41" width="120"></td>
+    </tr>
   </table>
 
   <!-- Column 2 -->
