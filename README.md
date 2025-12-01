@@ -35,68 +35,98 @@ Always eager to connect and collaborate, feel free to reach out !
 
 </p>
 
-
 #  💼 Experience
 
 ### Systems Engineer - Infosys Limited | Chennai, TN, India
 
-- Data Analyst - Power BI Developer
-- Improved Data Quality
+- Data Analyst - Power BI Developer <img src ="https://github.com/user-attachments/assets/411c1e1c-d474-422b-9cca-f1f075104b6c" align = "right" width = "200" height = "200"> <img src ="https://github.com/user-attachments/assets/2b1dcb89-f8dd-47e3-a754-012f1697a84c" align = "right" width = "200" height = "200">
+
+- Improved Data Quality 
 - Streamlined Data Architecture
 - Orchestrated Scalable BI Solutions
-- Ensured Compliance and Data Integrity
-- Partnered with Stakeholders
-- Developed Comprehensive Dashboards and Detailed Reports
+- Ensured Compliance and Data Integrity 
+- Partnered with Stakeholders <img src ="https://github.com/user-attachments/assets/71ff6143-d4dc-434b-8de5-98df190c1677" align = "right" width = "200" height = "200"> <img src ="https://github.com/user-attachments/assets/544d6298-c4b0-4497-9cd4-e0f263eb7acb" align = "right" width = "200" height = "200">
+- Developed Comprehensive Dashboards and Detailed Reports 
 - Accelerated Process Optimization
+
+
 - Maximized Operational Efficiency
 - Enhanced Enterprise Language Model Performance
+ 
+# 🎓 Education
 
-  # 🎓 Education
-
-### Bachelor of Technology - Chemical Engineering | April 2021
+### Bachelor of Technology - Chemical Engineering
 
 - Anna University - Sri Sivasubramaniya Nadar ( SSN ) College of Engineering
 
+# 💼 Programs & Fellowship
+
+### **1. Perplexity - AI Business Fellowship** <img width="200" height="200" src="https://github.com/user-attachments/assets/9b8a8798-337f-42c0-ac7f-00f2087b9dfb" align="right">
+
+- Selected as an AI Business Fellow at Perplexity, collaborating globally and engaging in hands-on workshops with industry leaders from NVIDIA, Databricks and Replit to drive practical AI adoption and business solutions
+
+### **2. Microsoft - Power Up Program** <img width="70" height="100" src="https://github.com/user-attachments/assets/3e549616-d4eb-4403-962d-49f89588a2ab" align="right"> <img width="100" height="100" src="https://github.com/user-attachments/assets/76ad7531-732f-4bbf-8029-8a5a1ab038a4" align="right">
+
+- Graduated from Microsoft Power Up Program, gaining practical expertise in designing and deploying solutions usingPowerApps, Power Automate, Power BI, Power Pages, and Power Virtual Agents
+
+### **3. McKinsey & Company - McKinsey Forward Program** <img width="130" height="130" src="https://github.com/user-attachments/assets/0f21efb1-4259-4304-b9f4-a2182c2fbb55" align="right"> 
+
+- Graduated from McKinsey Forward Program, strengthening technical expertise in digital tools and analytics while advancing problem-solving, communication, and future-ready workplace skills
+
+### **4. EY - Valuation, Analytics and Modelling Program** <img width="150" height="150" src="https://github.com/user-attachments/assets/97e8fbcd-72af-4327-b790-d5ea70bd2506" align="right"> 
+
+- Immersed in a blended program developing robust financial models, mastering valuation techniques, and derivingactionableinsights using advanced analytics and visualization tools
+
+### **5. Google - Get Certified Program** <img width="160" height="160" src="https://github.com/user-attachments/assets/2c63aae5-47a9-4238-82c6-a6103c68d2b9" align="right"> 
+
+- Secured a seat in the second edition of Get Certified Program by Google under the Professional Data Engineer Cohort
+
+### **6. Goldman Sachs - Career Pivot Series** <img width="110" height="140" src="https://github.com/user-attachments/assets/43546fc5-9f7a-4a38-b8d4-d7c566e7a0ee" align="right"> 
+
+- Selected to participate in the Goldman Sachs Career Pivot Series, a highly competitive program designed to equip individuals with the essential soft skills for career transitions. Successfully completed comprehensive modules, including, communicating impact through your resume, building an effective network, finding your best-fit role, acing your interviews, getting to know Goldman Sachs
+
+### **7. Stanford University - Code in Place** <img width="100" height="130" src="https://github.com/user-attachments/assets/d45bec2c-b002-4354-908c-6d71df5d40e6" align="right"> 
+
+- Developed a strong foundation in programming fundamentals, including control flow, loops, conditionals, console programs, graphics, lists, and dictionaries and actively participated in live coding sessions, collaborating with a diverse group of students to solve programming problems
+
+### **8. International Olympics Committee - Young Leaders Program** <img width="100" height="130" src="https://github.com/user-attachments/assets/99b4bbbb-e185-4545-905c-9deec4d6fd11" align="right"> 
+
+- Actively participated in the International Olympic Committee Young Leader Program Learning Sprint Series, collaborating with a diverse, international cohort to enhance skills in leadership, sports development, and community engagement, and applying key learnings to refine project strategies for positive social change
+
 # 💼 Projects
 
-### **KPMG Australia - Data Analytics Consulting**
+### **1. KPMG Australia - Data Analytics Consulting** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiODdkZThlZmUtMjk4MC00OWI4LTkzNTUtZWNiMTExMWYyMWUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
 
 - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 - Assessed data quality and completeness in preparation for analysis
 - Analyzed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
 
-https://app.powerbi.com/view?r=eyJrIjoiODdkZThlZmUtMjk4MC00OWI4LTkzNTUtZWNiMTExMWYyMWUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### **2. PwC Switzerland - Power BI in Data Analytics**
 
-### **PwC Switzerland - Power BI in Data Analytics**
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href ="https://app.powerbi.com/view?r=eyJrIjoiNDJlYTRjOTUtMWFmOS00ODIxLThkY2UtNjgzY2NiY2JlZjM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection">Dashboard Link 1</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href ="https://app.powerbi.com/view?r=eyJrIjoiNjliYjJjNTctMzEwNy00MGEwLWEyMzAtZmQwNmEwNGI4NWVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link 2</a>
+
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href ="https://app.powerbi.com/view?r=eyJrIjoiODQ5ODkzNWEtOTE4Yy00NzI0LTk5YzItODlhOTE1MWQ3YTVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link 3</a>
 
 - Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualization needs.
 - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-https://app.powerbi.com/view?r=eyJrIjoiNDJlYTRjOTUtMWFmOS00ODIxLThkY2UtNjgzY2NiY2JlZjM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
-
-https://app.powerbi.com/view?r=eyJrIjoiNjliYjJjNTctMzEwNy00MGEwLWEyMzAtZmQwNmEwNGI4NWVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
-https://app.powerbi.com/view?r=eyJrIjoiODQ5ODkzNWEtOTE4Yy00NzI0LTk5YzItODlhOTE1MWQ3YTVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
-### **TATA - Empowering Business with Effective Insights**
+### **3. TATA - Empowering Business with Effective Insights** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMmMyMDdiYzAtNTE1YS00M2I2LTk5NjItNWI1ZDVjNTYwMDNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
 
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
 
-https://app.powerbi.com/view?r=eyJrIjoiMmMyMDdiYzAtNTE1YS00M2I2LTk5NjItNWI1ZDVjNTYwMDNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
-### **JPMorgan Chase & Co. - Global Finance and Business Management**
+### **4. JPMorgan Chase & Co. - Global Finance and Business Management** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMzM2Mzg3MTgtNDkyMS00ZmZmLWFkY2ItZTBlZDExYzAwZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
 
 - Completed a job simulation focused on the GFBM internship program at JPMorgan Chase & Co.
 - Built a visualization dashboard from a dataset in Tableau
 - Developed a PowerPoint presentation to communicate key ideas and talking points and tell a compelling story about a portfolio of projects
 - Wrote a concise statement of variance-based commentary upon an analysis of a financial statement
-
-https://app.powerbi.com/view?r=eyJrIjoiMzM2Mzg3MTgtNDkyMS00ZmZmLWFkY2ItZTBlZDExYzAwZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 # 🔨 Skills
 
