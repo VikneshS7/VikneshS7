@@ -145,3 +145,17 @@ Always eager to connect and collaborate, feel free to reach out !
 - Snowflake
 - Databricks
 - Microsoft Azure
+
+# 🚀 Certifications
+
+- Snowflake Certified : SnowPro Associate : Platform
+- Astronomer Certified : Apache Airflow 2 Fundamentals
+- Databricks Accredited : Databricks Fundamentals, Generative AI Fundamentals, AI Agents Fundamentals
+- Salesforce Certified AI Associate
+- Oracle Data Platform Certified Foundations Associate
+- Alteryx Designer Core Micro-Credential
+- Microsoft Certified : PL-300 - Power BI Data Analyst Associate
+- Microsoft Certified : AZ-900-Azure Fundamentals, DP-900-Azure Data Fundamentals, AI-900-Azure AI Fundamentals
+- Microsoft Certified : SC-900 - Security, Compliance, and Identity Fundamentals, PL-900 - Power PlatformFundamentals
+- Microsoft Certified : MB-920 - Dynamics 365 Fundamentals – ERP, MB-910 – Dynamics 365 Fundamentals – CRM
+- Microsoft 365 Certified : MS-900 - Fundamentals
