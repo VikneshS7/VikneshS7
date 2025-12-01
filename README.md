@@ -134,6 +134,7 @@ Always eager to connect and collaborate, feel free to reach out !
 - Microsoft Power BI
 - Microsoft Fabric
 - Python
+- Data Governance
 - Data Quality Testing
 - Data Modelling
 - Advanced Excel
