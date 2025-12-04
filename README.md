@@ -1,18 +1,18 @@
-Hi, I am Viknesh !
-
-I am a reinforcement learner trying to become unconsciously skilled in various aspects !
+Hi, I share about what I do and learn !
 
 As a person, I am easy to work with and possess high agency !
 
-As an adaptable engineer, I am driven to add value and to enhance and explore skills in Business Intelligence, Data Engineering, Governance and Analytics !
+As a technology enthusiast, I have a great interest in exploring various tools and technologies in the marketplace and their business aspects.
 
-As a technology enthusiast, I have a great interest in exploring various aspects of a business and passionate about converting business problems into analytical questions and utilizing data to solve them !
+As an adaptable engineer, I am driven to add value and to enhance and explore skills in Business Intelligence, Artificial Intelligence, Data Engineering, Governance and Analytics. I am particularly passionate about utilizing data to solve business problems !
 
 My experience centers on leveraging Power BI to build dynamic dashboards and reports that track key performance metrics. I have designed end-to-end reporting solutions that enhance business KPI tracking and support improved data-driven decision-making. I do data modeling to ensure data integrity and optimize query performance, while my proficiency with diverse data connectors and understanding of data warehousing principles !
 
-I am inclined towards adapting myself quickly with various tools, technologies, domains and I ship fast !
+I am a reinforcement learner and I ship fast. I am inclined towards adapting myself quickly with various tools, technologies, domains and am working to become unconsciously skilled in various aspects !
 
-Always eager to connect and collaborate, feel free to reach out !
+Always eager to connect, collaborate and be mutually beneficial !
+
+Feel free to reach out !
 
 <!-- Wrap everything in a center block if you like -->
 <p align="center">
