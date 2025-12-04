@@ -128,6 +128,22 @@ Always eager to connect and collaborate, feel free to reach out !
 - Developed a PowerPoint presentation to communicate key ideas and talking points and tell a compelling story about a portfolio of projects
 - Wrote a concise statement of variance-based commentary upon an analysis of a financial statement
 
+### **5. iNeuron.ai - Healthcare Analytics** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMjRhZGVlNDUtOWJkMC00NzU2LWIyNjItZmE0NWNkMDQxODU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link </a>
+
+- Conducted in-depth analysis of a comprehensive dataset of healthcare providers across the United States, identifying and calculating key performance indicators (KPIs)
+- Effectively communicated findings through visually compelling reports and dashboards created using Microsoft Power BI
+- Developed comprehensive project documentation, including high-level and low-level specifications, as well as detailed architectural diagrams
+
+### **6. Supply Chain Analytics**
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href ="https://app.powerbi.com/view?r=eyJrIjoiMjkzNjE5YzAtNmFjMy00MDM4LThkMGUtZWUwZjlkZWFmMzIyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"> Dashboard Link 1</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href ="https://app.powerbi.com/view?r=eyJrIjoiYzM1ODAzMzItY2FkMC00N2Q4LWI4ZmQtYzE2MjczZmM3YjgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"> Dashboard Link 2</a>
+
+- Designed and developed a Supply Chain Performance Dashboard for AtliQ Mart to track On-Time (OT %), In-Full (IF %), and On-Time-In-Full (OTIF %) delivery metrics across key customers and cities using advanced data visualization techniques
+- Analyzed delivery trends and root causes of service level gaps, generating actionable insights that helped management reduce delivery delays and improve customer contract retention
+- Collaborated with stakeholders to translate business requirements from a review meeting into data-driven KPIs, ensuring real-time monitoring of supply chain efficiency and readiness for expansion into metro/tier-1 cities.
+
 # 🔨 Skills
 
 - SQL
