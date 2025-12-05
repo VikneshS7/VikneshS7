@@ -176,3 +176,7 @@ Feel free to reach out !
 - Microsoft Certified : SC-900 - Security, Compliance, and Identity Fundamentals, PL-900 - Power PlatformFundamentals
 - Microsoft Certified : MB-920 - Dynamics 365 Fundamentals – ERP, MB-910 – Dynamics 365 Fundamentals – CRM
 - Microsoft 365 Certified : MS-900 - Fundamentals
+- LinkedIn Certified Marketing Insider
+- Infosys Certified Business Intelligence Associate, MySQL Associate
+- Infosys Certified Power BI Developer, Global Agile Developer
+- Infosys Certified Data Science Using Python Professional
