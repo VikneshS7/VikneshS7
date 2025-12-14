@@ -1,8 +1,4 @@
-Hi, I share about what I do and learn !
-
-As a person, I am easy to work with and possess high agency !
-
-As a technology enthusiast, I have a great interest in exploring various tools and technologies in the marketplace and their business aspects.
+Hi, I am Viknesh !
 
 As an adaptable engineer, I am driven to add value and to enhance and explore skills in Business Intelligence, Artificial Intelligence, Data Engineering, Governance and Analytics. I am particularly passionate about utilizing data to solve business problems !
 
