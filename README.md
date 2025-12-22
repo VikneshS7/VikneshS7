@@ -165,6 +165,7 @@ Feel free to reach out !
 
 - Snowflake Certified : SnowPro Associate : Platform
 - Astronomer Certified : Apache Airflow 2 Fundamentals
+- ClickHouse Database Associate
 - Databricks Accredited : Databricks Fundamentals, Generative AI Fundamentals, AI Agents Fundamentals
 - Salesforce Certified AI Associate
 - Oracle Data Platform Certified Foundations Associate
