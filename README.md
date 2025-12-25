@@ -168,7 +168,8 @@ Feel free to reach out !
 - ClickHouse Database Associate
 - Databricks Accredited : Databricks Fundamentals, Generative AI Fundamentals, AI Agents Fundamentals
 - Salesforce Certified AI Associate
-- Oracle Data Platform Certified Foundations Associate
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Oracle Data Platform Foundations Associate
 - Alteryx Designer Core Micro-Credential
 - Microsoft Certified : PL-300 - Power BI Data Analyst Associate
 - Microsoft Certified : AZ-900-Azure Fundamentals, DP-900-Azure Data Fundamentals, AI-900-Azure AI Fundamentals
