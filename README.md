@@ -165,6 +165,8 @@ Feel free to reach out !
 
 - Snowflake Certified : SnowPro Associate : Platform
 - Astronomer Certified : Apache Airflow 2 Fundamentals
+- PingCAP Certified TiDB Practitioner
+- YugabyteDB Certified Practitioner Associate
 - ClickHouse Database Associate
 - Databricks Accredited : Databricks Fundamentals, Generative AI Fundamentals, AI Agents Fundamentals
 - Salesforce Certified AI Associate
