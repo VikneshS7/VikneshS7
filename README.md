@@ -65,7 +65,7 @@ Feel free to reach out !
 
 ### **2. Amazon - Operational Strategy and People Analytics Externship** <img width="100" height="100" src="https://github.com/user-attachments/assets/274c451d-2291-4bc6-ba34-bcab9bad661c" align="right">
 
-- Currently engaged in an Amazon Operational Strategy & People Analytics externship, analyzing fulfillment center employee feedback with qualitative methods and Python-based sentiment analysis to generate workforce insights and strategy recommendations
+- Engaged in Amazon Operational Strategy & People Analytics externship, analyzing fulfillment center employee feedback with qualitative methods and Python-based sentiment analysis to generate workforce insights and strategy recommendations
 
 
 ### **3. Microsoft - Power Up Program** <img width="70" height="100" src="https://github.com/user-attachments/assets/3e549616-d4eb-4403-962d-49f89588a2ab" align="right"> <img width="100" height="100" src="https://github.com/user-attachments/assets/76ad7531-732f-4bbf-8029-8a5a1ab038a4" align="right">
