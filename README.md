@@ -63,31 +63,36 @@ Feel free to reach out !
 
 - Selected as an AI Business Fellow at Perplexity, collaborating globally and engaging in hands-on workshops with industry leaders from NVIDIA, Databricks and Replit to drive practical AI adoption and business solutions
 
-### **2. Microsoft - Power Up Program** <img width="70" height="100" src="https://github.com/user-attachments/assets/3e549616-d4eb-4403-962d-49f89588a2ab" align="right"> <img width="100" height="100" src="https://github.com/user-attachments/assets/76ad7531-732f-4bbf-8029-8a5a1ab038a4" align="right">
+### **2. Amazon - Operational Strategy and People Analytics Externship** <img width="100" height="100" src="https://github.com/user-attachments/assets/274c451d-2291-4bc6-ba34-bcab9bad661c" align="right">
+
+- Currently engaged in an Amazon Operational Strategy & People Analytics externship, analyzing fulfillment center employee feedback with qualitative methods and Python-based sentiment analysis to generate workforce insights and strategy recommendations
+
+
+### **3. Microsoft - Power Up Program** <img width="70" height="100" src="https://github.com/user-attachments/assets/3e549616-d4eb-4403-962d-49f89588a2ab" align="right"> <img width="100" height="100" src="https://github.com/user-attachments/assets/76ad7531-732f-4bbf-8029-8a5a1ab038a4" align="right">
 
 - Graduated from Microsoft Power Up Program, gaining practical expertise in designing and deploying solutions usingPowerApps, Power Automate, Power BI, Power Pages, and Power Virtual Agents
 
-### **3. McKinsey & Company - McKinsey Forward Program** <img width="130" height="130" src="https://github.com/user-attachments/assets/0f21efb1-4259-4304-b9f4-a2182c2fbb55" align="right"> 
+### **4. McKinsey & Company - McKinsey Forward Program** <img width="130" height="130" src="https://github.com/user-attachments/assets/0f21efb1-4259-4304-b9f4-a2182c2fbb55" align="right"> 
 
 - Graduated from McKinsey Forward Program, strengthening technical expertise in digital tools and analytics while advancing problem-solving, communication, and future-ready workplace skills
 
-### **4. EY - Valuation, Analytics and Modelling Program** <img width="150" height="150" src="https://github.com/user-attachments/assets/97e8fbcd-72af-4327-b790-d5ea70bd2506" align="right"> 
+### **5. EY - Valuation, Analytics and Modelling Program** <img width="150" height="150" src="https://github.com/user-attachments/assets/97e8fbcd-72af-4327-b790-d5ea70bd2506" align="right"> 
 
 - Immersed in a blended program developing robust financial models, mastering valuation techniques, and derivingactionableinsights using advanced analytics and visualization tools
 
-### **5. Google - Get Certified Program** <img width="160" height="160" src="https://github.com/user-attachments/assets/2c63aae5-47a9-4238-82c6-a6103c68d2b9" align="right"> 
+### **6. Google - Get Certified Program** <img width="160" height="160" src="https://github.com/user-attachments/assets/2c63aae5-47a9-4238-82c6-a6103c68d2b9" align="right"> 
 
 - Secured a seat in the second edition of Get Certified Program by Google under the Professional Data Engineer Cohort
 
-### **6. Goldman Sachs - Career Pivot Series** <img width="110" height="140" src="https://github.com/user-attachments/assets/43546fc5-9f7a-4a38-b8d4-d7c566e7a0ee" align="right"> 
+### **7. Goldman Sachs - Career Pivot Series** <img width="110" height="140" src="https://github.com/user-attachments/assets/43546fc5-9f7a-4a38-b8d4-d7c566e7a0ee" align="right"> 
 
 - Selected to participate in the Goldman Sachs Career Pivot Series, a highly competitive program designed to equip individuals with the essential soft skills for career transitions. Successfully completed comprehensive modules, including, communicating impact through your resume, building an effective network, finding your best-fit role, acing your interviews, getting to know Goldman Sachs
 
-### **7. Stanford University - Code in Place** <img width="100" height="130" src="https://github.com/user-attachments/assets/d45bec2c-b002-4354-908c-6d71df5d40e6" align="right"> 
+### **8. Stanford University - Code in Place** <img width="100" height="130" src="https://github.com/user-attachments/assets/d45bec2c-b002-4354-908c-6d71df5d40e6" align="right"> 
 
 - Developed a strong foundation in programming fundamentals, including control flow, loops, conditionals, console programs, graphics, lists, and dictionaries and actively participated in live coding sessions, collaborating with a diverse group of students to solve programming problems
 
-### **8. International Olympics Committee - Young Leaders Program** <img width="100" height="130" src="https://github.com/user-attachments/assets/99b4bbbb-e185-4545-905c-9deec4d6fd11" align="right"> 
+### **9. International Olympics Committee - Young Leaders Program** <img width="100" height="130" src="https://github.com/user-attachments/assets/99b4bbbb-e185-4545-905c-9deec4d6fd11" align="right"> 
 
 - Actively participated in the International Olympic Committee Young Leader Program Learning Sprint Series, collaborating with a diverse, international cohort to enhance skills in leadership, sports development, and community engagement, and applying key learnings to refine project strategies for positive social change
 
