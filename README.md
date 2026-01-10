@@ -98,14 +98,14 @@ Feel free to reach out !
 
 # 💼 Projects
 
-### **1. KPMG Australia - Data Analytics Consulting** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiODdkZThlZmUtMjk4MC00OWI4LTkzNTUtZWNiMTExMWYyMWUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
+### **1. KPMG Australia - Data Analytics Consulting** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiODdkZThlZmUtMjk4MC00OWI4LTkzNTUtZWNiMTExMWYyMWUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a> <img width="160" height="160" src="https://github.com/user-attachments/assets/f80d7708-4d56-4fa8-921f-bb4a2dd5a5ea" align="right">
 
 - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 - Assessed data quality and completeness in preparation for analysis
 - Analyzed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
 
-### **2. PwC Switzerland - Power BI in Data Analytics**
+### **2. PwC Switzerland - Power BI in Data Analytics** <img width="160" height="160" src="https://github.com/user-attachments/assets/dae5971c-de66-4d85-9a4c-ca2514958d63" align="right">
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href ="https://app.powerbi.com/view?r=eyJrIjoiNDJlYTRjOTUtMWFmOS00ODIxLThkY2UtNjgzY2NiY2JlZjM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection">Dashboard Link 1</a>
 
@@ -118,13 +118,14 @@ Feel free to reach out !
 - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-### **3. TATA - Empowering Business with Effective Insights** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMmMyMDdiYzAtNTE1YS00M2I2LTk5NjItNWI1ZDVjNTYwMDNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
+### **3. TATA - Empowering Business with Effective Insights** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMmMyMDdiYzAtNTE1YS00M2I2LTk5NjItNWI1ZDVjNTYwMDNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a> <img width="160" height="160" src="https://github.com/user-attachments/assets/782e6b93-04b0-4ef3-abc4-b170666572d7" align="right"> 
+
 
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
 
-### **4. JPMorgan Chase & Co. - Global Finance and Business Management** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMzM2Mzg3MTgtNDkyMS00ZmZmLWFkY2ItZTBlZDExYzAwZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a>
+### **4. JPMorgan Chase & Co. - Global Finance and Business Management** - <a href ="https://app.powerbi.com/view?r=eyJrIjoiMzM2Mzg3MTgtNDkyMS00ZmZmLWFkY2ItZTBlZDExYzAwZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Link</a> <img width="160" height="160" src="https://github.com/user-attachments/assets/952f0f7f-1903-4fd8-9ea7-b7755241cb32" align="right">
 
 - Completed a job simulation focused on the GFBM internship program at JPMorgan Chase & Co.
 - Built a visualization dashboard from a dataset in Tableau
