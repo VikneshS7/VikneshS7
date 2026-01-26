@@ -63,7 +63,7 @@ Feel free to reach out !
 
 - Selected as an AI Business Fellow at Perplexity, collaborating globally and engaging in hands-on workshops with industry leaders from NVIDIA, Databricks and Replit to drive practical AI adoption and business solutions
 
-### **2. AMD - AI Developer Program** <img width="200" height="200" src="https://github.com/user-attachments/assets/d46b9d9a-1d69-4e02-b14f-ae1cc1bff2f5" align="right">
+### **2. AMD - AI Developer Program** <img width="100" height="100" src="https://github.com/user-attachments/assets/d46b9d9a-1d69-4e02-b14f-ae1cc1bff2f5" align="right">
 
 - Engaged in AMD AI Developer Program, leveraging AMD Developer Cloud credits, training, and community resources to build and optimize AI workloads on AMD platforms
 
