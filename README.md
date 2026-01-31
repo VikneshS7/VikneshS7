@@ -174,6 +174,7 @@ Feel free to reach out !
 
 - Snowflake Certified : SnowPro Associate : Platform
 - Astronomer Certified : Apache Airflow 2 Fundamentals
+- Confluent Apache Kafka Fundamentals Accreditation
 - Confluent Apache Flink® Fundamentals Accreditation
 - PingCAP Certified TiDB Practitioner
 - YugabyteDB Certified Practitioner Associate
